@@ -20,7 +20,7 @@ The initiative helps in:
 ## 📁 Project Files
 
 - `Business_Insights_360.pbix` – Main Power BI report file (fully interactive)
-- (Optional) `/assets/` – Folder with dashboard screenshots for preview
+- `/assets/` – Folder with dashboard screenshots for preview
 
 ---
 
