@@ -1,6 +1,7 @@
 # 📊 Business Insights 360 – Power BI Dashboard Project
 
-**Business Insights 360** is an end-to-end Power BI analytics project built on real-world business data from *Atliq Grand*, a global consumer electronics brand. This interactive dashboard provides a unified, functional-level view of five key areas of the business: **Finance**, **Sales**, **Marketing**, **Supply Chain**, and **Executive Summary**.
+**Business Insights 360** is an end-to-end Power BI analytics project built on real-world business data from *Atliq Grand*, a global consumer electronics brand. The **Finance**, **Sales**, **Marketing**, **Supply Chain**, and **Executive Summary** are key pillars of any organization.  This interactive Power BI dashboard delivers a **unified, functional-level view** of all these business areas in one place.
+
 
 ---
 
