@@ -7,7 +7,8 @@
 
 ## 🔍 Objective
 
-To simulate a real-time business scenario and deliver meaningful insights to decision-makers using Power BI, DAX, and data modeling techniques. The project helps in:
+Using **Power BI**, **DAX**, and **data modeling techniques**, this project replicates a real-time business scenario to deliver **insightful analysis** for decision-makers.  
+The initiative helps in:
 
 - Monitoring performance KPIs  
 - Identifying bottlenecks  
